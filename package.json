@@ -1,9 +1,9 @@
 {
-    "name": "package"
+    "name": "(ดู-หนัง) Khun Pan 3 (ขุนพันธ์ 3-2023) เต็มเรื่อง HD/พากย์ไทย 1080p"
   , "version": "1.0.1"
   , "description": "Easy package.json exports."
   , "keywords": ["package.json"]
-  , "author": "Veselin Todorov <hi@vesln.com>"
+  , "author": "(ดู-หนัง) Khun Pan 3 (ขุนพันธ์ 3-2023) เต็มเรื่อง HD/พากย์ไทย 1080p"
   , "devDependencies": {
       "mocha": "0.3.3"
     , "should": "0.3.2"
